@@ -1,0 +1,11 @@
+npm i express
+npm i passport 
+npm i passport-google-oauth20
+npm i nodemon 
+npm i passport-facebook
+npm i passport-google-oauth20
+
+go to google developers console for geenrating client id
+
+client id 572598184405-rdc50lnhrtnv85qeol1bfsv5iu2a0vur.apps.googleusercontent.com
+secret= VabcUizAktqRdbwzsbA5Zusw
